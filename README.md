@@ -30,6 +30,7 @@ as each lands.
 - **[blast-radius](https://github.com/heidericklucas/blast-radius)** — Service-dependency blast radius, deploy order &amp; cycle detection computed entirely with Postgres recursive CTEs. TypeScript · React 19 · Express 5 · PostgreSQL.
 - **[hooksmith](https://github.com/heidericklucas/hooksmith)** — Reliable webhook delivery service: transactional outbox, `SELECT FOR UPDATE SKIP LOCKED` workers, HMAC signing, idempotency, backoff &amp; dead-letter. C# · .NET 10 · ASP.NET Core · PostgreSQL.
 - **[openhours-resolver](https://github.com/heidericklucas/openhours-resolver)** — Timezone- &amp; DST-correct “is it open right now?” engine with explicit spring-forward/fall-back handling. Laravel 13 · PHP 8.5 · Vue 3.5 · PostgreSQL.
+- **[logdrain](https://github.com/heidericklucas/logdrain)** — Streaming log pattern-miner: a from-scratch Drain parser + online EWMA rate anomalies, pushed live over SSE. Python · FastAPI · SQLAlchemy async · PostgreSQL.
 - **[slack-content-gateway-safety](https://github.com/heidericklucas/slack-content-gateway-safety)** — Slack app that flags toxic messages in real time. Python.
 
 ---
