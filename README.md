@@ -31,6 +31,7 @@ as each lands.
 - **[hooksmith](https://github.com/heidericklucas/hooksmith)** — Reliable webhook delivery service: transactional outbox, `SELECT FOR UPDATE SKIP LOCKED` workers, HMAC signing, idempotency, backoff &amp; dead-letter. C# · .NET 10 · ASP.NET Core · PostgreSQL.
 - **[openhours-resolver](https://github.com/heidericklucas/openhours-resolver)** — Timezone- &amp; DST-correct “is it open right now?” engine with explicit spring-forward/fall-back handling. Laravel 13 · PHP 8.5 · Vue 3.5 · PostgreSQL.
 - **[logdrain](https://github.com/heidericklucas/logdrain)** — Streaming log pattern-miner: a from-scratch Drain parser + online EWMA rate anomalies, pushed live over SSE. Python · FastAPI · SQLAlchemy async · PostgreSQL.
+- **[preview-deploys](https://github.com/heidericklucas/preview-deploys)** — Per-PR ephemeral preview deploys via GitHub Actions + Pages: every PR gets a live URL + bot comment, torn down on close. [live ↗](https://heidericklucas.github.io/preview-deploys/)
 - **[slack-content-gateway-safety](https://github.com/heidericklucas/slack-content-gateway-safety)** — Slack app that flags toxic messages in real time. Python.
 
 ---
