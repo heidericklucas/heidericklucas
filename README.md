@@ -28,6 +28,7 @@ green CI, and a deployed demo you can click. More shipping now — this list gro
 as each lands.
 
 - **[blast-radius](https://github.com/heidericklucas/blast-radius)** — Service-dependency blast radius, deploy order &amp; cycle detection computed entirely with Postgres recursive CTEs. TypeScript · React 19 · Express 5 · PostgreSQL.
+- **[hooksmith](https://github.com/heidericklucas/hooksmith)** — Reliable webhook delivery service: transactional outbox, `SELECT FOR UPDATE SKIP LOCKED` workers, HMAC signing, idempotency, backoff &amp; dead-letter. C# · .NET 10 · ASP.NET Core · PostgreSQL.
 - **[slack-content-gateway-safety](https://github.com/heidericklucas/slack-content-gateway-safety)** — Slack app that flags toxic messages in real time. Python.
 
 ---
