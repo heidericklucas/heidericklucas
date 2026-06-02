@@ -7,7 +7,7 @@ screenshot: a real test suite, green CI on every PR, and a live URL anyone can
 click. I work across the TypeScript and .NET ecosystems, with a long tail of
 PHP/Laravel and Python.
 
-📍 Orlando, FL · 🌐 [lucashvieira.dev](https://lucashvieira.dev) · ☁️ AWS Certified Cloud Practitioner
+🌐 [lucashvieira.dev](https://lucashvieira.dev) · ☁️ AWS Certified Cloud Practitioner
 
 ---
 
