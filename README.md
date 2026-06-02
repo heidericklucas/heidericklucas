@@ -27,6 +27,7 @@ Small on purpose: one sharp problem each, a real technical core, a test suite,
 green CI, and a deployed demo you can click. More shipping now — this list grows
 as each lands.
 
+- **[blast-radius](https://github.com/heidericklucas/blast-radius)** — Service-dependency blast radius, deploy order &amp; cycle detection computed entirely with Postgres recursive CTEs. TypeScript · React 19 · Express 5 · PostgreSQL.
 - **[slack-content-gateway-safety](https://github.com/heidericklucas/slack-content-gateway-safety)** — Slack app that flags toxic messages in real time. Python.
 
 ---
